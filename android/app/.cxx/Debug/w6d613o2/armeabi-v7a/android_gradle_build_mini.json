@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/priyanshu/Desktop/Priyanshu/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/priyanshu/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/priyanshu/Desktop/Priyanshu/development/Flutter_Fitness_App/android/app/.cxx/Debug/w6d613o2/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/priyanshu/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/priyanshu/Desktop/Priyanshu/development/Flutter_Fitness_App/android/app/.cxx/Debug/w6d613o2/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

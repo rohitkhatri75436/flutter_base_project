@@ -1,0 +1,4 @@
+{
+  "dart.runPubGetOnPubspecChanges": "never",
+  "cSpell.words": ["debouncer", "Fluttertoast", "Snackbars"]
+}
